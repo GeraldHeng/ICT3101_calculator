@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">1114112</s:Int64>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">/usr/local/share/dotnet/sdk/6.0.400/MSBuild.dll</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=07c6cd80_002D60b7_002D475d_002Da80b_002Df63a71902348/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from UnitTest1.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;9D1DAAE3-AC3A-4616-BE95-3642BB671C25/f:UnitTest1.cs&lt;/ProjectFile&gt;
+    &lt;Project Location="/Users/geraldheng/RiderProjects/ICT3101_Calculator2/SpecFlowCalculatorTests" Presentation="&amp;lt;SpecFlowCalculatorTests&amp;gt;" /&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dd4de665_002D0754_002D4065_002Db23e_002Dae8ba225ab20/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;9D1DAAE3-AC3A-4616-BE95-3642BB671C25/f:UnitTest1.cs&lt;/ProjectFile&gt;
+    &lt;Project Location="/Users/geraldheng/RiderProjects/ICT3101_Calculator2/SpecFlowCalculatorTests" Presentation="&amp;lt;SpecFlowCalculatorTests&amp;gt;" /&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

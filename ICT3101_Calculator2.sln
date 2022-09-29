@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowCalculatorTests", "SpecFlowCalculatorTests\SpecFlowCalculatorTests.csproj", "{5C97B57D-D5C9-4962-BACA-0474EE6DE29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICT3101_Calculator", "ICT3101_Calculator\ICT3101_Calculator.csproj", "{12B60200-8910-4635-81AD-4A402C5E25C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICT3101_Calculator.UnitTests", "ICT3101_Calculator.UnitTests\ICT3101_Calculator.UnitTests.csproj", "{9D1DAAE3-AC3A-4616-BE95-3642BB671C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C97B57D-D5C9-4962-BACA-0474EE6DE29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C97B57D-D5C9-4962-BACA-0474EE6DE29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C97B57D-D5C9-4962-BACA-0474EE6DE29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C97B57D-D5C9-4962-BACA-0474EE6DE29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B60200-8910-4635-81AD-4A402C5E25C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B60200-8910-4635-81AD-4A402C5E25C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B60200-8910-4635-81AD-4A402C5E25C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B60200-8910-4635-81AD-4A402C5E25C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1DAAE3-AC3A-4616-BE95-3642BB671C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1DAAE3-AC3A-4616-BE95-3642BB671C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1DAAE3-AC3A-4616-BE95-3642BB671C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1DAAE3-AC3A-4616-BE95-3642BB671C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
